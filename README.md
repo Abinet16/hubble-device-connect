@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c62108c9-2753-4c94-b3b3-642ed8ad08ce" />---
+---
 
 # 📱 Device Management System
 
@@ -56,8 +56,8 @@ device-management-system/
 ### 1. Clone the repo
 
 ```bash
-git clone git remote add origin https://github.com/Abinet16/hubble-device-connect.git
-cd hubble-device-connect
+git clone https://github.com/your-username/device-management-system.git
+cd device-management-system
 ```
 
 ### 2. Install dependencies
